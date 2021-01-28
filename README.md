@@ -5,6 +5,7 @@ Our World in Data](https://ourworldindata.org). Data displayed here is mostly ab
 
 You can find here :
 * New confirmed cases of COVID-19 (7-day smoothed) per 1,000,000 people by country: [COVID Cases](https://github.com/simonmoreau/covid-data/blob/main/COVID%20Cases.ipynb)
+* New recent confirmed cases of COVID-19 per 1,000,000 people by country: [COVID Recent Cases](https://github.com/simonmoreau/covid-data/blob/main/COVID%20Recent%20Cases.ipynb)
 * The total deaths attributed to COVID-19 per 1,000,000 people: [COVID Death](https://github.com/simonmoreau/covid-data/blob/main/COVID%20Death.ipynb)
 * The total number of COVID-19 vaccination doses administered per 100 people in the total population by country: [COVID Vaccine](https://github.com/simonmoreau/covid-data/blob/main/COVID%20Vaccine.ipynb)
 * The new confirmed cases of COVID-19 and the new deaths attributed to COVID-19 (7-day smoothed) per 1,000,000 people, along the lockdowns periods: [COVID Lockdown Effect](https://github.com/simonmoreau/covid-data/blob/main/COVID%20Lockdown%20Effect.ipynb)
